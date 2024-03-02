@@ -1,5 +1,5 @@
 export default defineNuxtConfig({
-  modules: ['@nuxtjs/tailwindcss', '@nuxt/image', '@nuxtjs/google-fonts'],
+  modules: ['@nuxt/ui', '@nuxt/image', '@nuxtjs/google-fonts'],
   googleFonts: {
     display: 'swap',
     families: {
