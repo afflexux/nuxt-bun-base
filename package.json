@@ -6,8 +6,11 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview"
   },
+  "dependencies": {
+    "nuxt": "^3.8.0",
+    "@nuxt/image": "rc"
+  },
   "devDependencies": {
-    "@nuxt/image": "rc",
     "@nuxtjs/tailwindcss": "^6.8.0",
     "@types/node": "^20.8.7",
     "@typescript-eslint/eslint-plugin": "^6.8.0",
@@ -18,7 +21,6 @@
     "eslint-plugin-nuxt": "^4.0.0",
     "eslint-plugin-prettier": "^5.0.1",
     "eslint-plugin-vue": "^9.17.0",
-    "nuxt": "^3.8.0",
     "prettier": "^3.0.3",
     "prettier-plugin-tailwindcss": "^0.5.6",
     "typescript": "^5.2.2"
