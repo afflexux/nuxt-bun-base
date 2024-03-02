@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "nuxt": "^3.10.3",
-    "@nuxt/image": "rc"
+    "@nuxt/image": "^1.3.0"
   },
   "devDependencies": {
     "@nuxtjs/google-fonts": "^3.1.3",
